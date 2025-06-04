@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "Laharika S",
+      "doj": "2025-06-03T21:04:59.130Z",
+      "role": "manager",
+      "salary": "30000"
+    },
+    {
+      "id": "2",
+      "name": "Vaishnavi",
+      "doj": "2024-05-05T18:30:00.000Z",
+      "role": "operator",
+      "salary": "40000"
+    },
+    {
+      "id": "3",
+      "name": "Bhavana S",
+      "doj": "2021-06-09T18:30:00.000Z",
+      "role": "lead",
+      "salary": "600000"
+    }
+  ]
+}
